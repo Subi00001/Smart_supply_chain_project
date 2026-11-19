@@ -1,0 +1,9 @@
+smart_supply_chain_project/
+├── app.py
+├── requirements.txt
+├── README.md
+├── PROJECT_REPORT.md
+├── DATA_DICTIONARY.md
+└── data/
+    ├── supply_chain_orders.csv
+    └── supplier_details.csv

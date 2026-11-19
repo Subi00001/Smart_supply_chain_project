@@ -1,0 +1,9 @@
+supplier_id,supplier_name,base_reliability,average_rating,region
+SUP001,Apex Supplies,0.94,8.5,South
+SUP002,BlueWave Traders,0.88,7.8,East
+SUP003,PrimeSource Ltd,0.97,9.1,North
+SUP004,Global Goods,0.76,6.9,West
+SUP005,SwiftCart Wholesale,0.91,8.2,East
+SUP006,Metro Distributors,0.82,7.2,North
+SUP007,GreenLine Supply,0.95,8.8,Central
+SUP008,BudgetBridge Co,0.7,6.4,South
